@@ -1,0 +1,5 @@
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Common\bin\Debug\MsTest.Demo.Common.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Common\bin\Debug\MsTest.Demo.Common.pdb
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Common\obj\Debug\MsTest.Demo.Common.csprojResolveAssemblyReference.cache
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Common\obj\Debug\MsTest.Demo.Common.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Common\obj\Debug\MsTest.Demo.Common.pdb

@@ -1,0 +1,10 @@
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\bin\Debug\MsTest.Demo.Contract.dll.config
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\bin\Debug\MsTest.Demo.Contract.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\bin\Debug\MsTest.Demo.Contract.pdb
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\bin\Debug\EntityFramework.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\bin\Debug\EntityFramework.xml
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\obj\Debug\MsTest.Demo.Contract.csprojResolveAssemblyReference.cache
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\obj\Debug\MsTest.Demo.Contract.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Contract\obj\Debug\MsTest.Demo.Contract.pdb

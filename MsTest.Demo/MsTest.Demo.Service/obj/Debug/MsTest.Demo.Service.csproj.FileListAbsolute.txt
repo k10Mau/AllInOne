@@ -1,0 +1,14 @@
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\obj\Debug\MsTest.Demo.Service.csprojResolveAssemblyReference.cache
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\MsTest.Demo.Service.dll.config
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\MsTest.Demo.Service.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\MsTest.Demo.Service.pdb
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\EntityFramework.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\MsTest.Demo.Contract.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\MsTest.Demo.Contract.pdb
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\EntityFramework.xml
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\obj\Debug\MsTest.Demo.Service.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\obj\Debug\MsTest.Demo.Service.pdb
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\Mstest.Demo.DAL.dll
+C:\MVCApp\MsTest.Demo\MsTest.Demo.Service\bin\Debug\Mstest.Demo.DAL.pdb
